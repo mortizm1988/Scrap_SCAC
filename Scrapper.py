@@ -9,8 +9,8 @@ import csv
 import list_info as list_cases
 import case_info as case
 
-email = 'marcelo.ortizm@upf.edu'
-password = '@Holanda2020'
+email = 'YOUR-EMAIL-HERE'
+password = 'PASSWORD-HERE'
 s = Service(ChromeDriverManager().install())
 url_ = "http://securities.stanford.edu/filings.html?page="
 pn = 1
