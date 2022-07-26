@@ -11,4 +11,4 @@ An important part of the code is borrowed from [Kai Chen's website](http://kaich
 I added extra variable extraction (judge, docket, industry, sector, class period dates, case summary) and modified part of the original code by encapsulating better the function and variable scopes. 
 
 # Learn how to use selenium
-I benefited a lot from (this youtube videos)[https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ].
+I benefited a lot from these [youtube videos](https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ).
