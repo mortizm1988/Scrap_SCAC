@@ -10,5 +10,5 @@ Use with civic responsibility for research and education only.
 An important part of the code is borrowed from [Kai Chen's website](http://kaichen.work/?p=1032). I appreciated that Kai made his code available.
 I added extra variable extraction (judge, docket, industry, sector, class period dates, case summary) and modified part of the original code by encapsulating better the function and variable scopes. 
 
-# Learn how to use selenium
+# Learn how to install and use selenium
 I benefited a lot from these [youtube videos](https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ).
